@@ -13,7 +13,7 @@ spec:
       values: |
         image:
           repository: 347486023960.dkr.ecr.ap-south-1.amazonaws.com/video-processor
-          tag: latest
+          tag: d44a01e
   destination:
     server: https://kubernetes.default.svc
     namespace: dev

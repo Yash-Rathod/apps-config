@@ -13,7 +13,7 @@ spec:
       values: |
         image:
           repository: 347486023960.dkr.ecr.ap-south-1.amazonaws.com/notification-api
-          tag: latest
+          tag: 99ac321
   destination:
     server: https://kubernetes.default.svc
     namespace: dev
